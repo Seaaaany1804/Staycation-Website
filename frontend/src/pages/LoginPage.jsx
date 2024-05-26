@@ -28,6 +28,9 @@ const LoginPage = () => {
 
                         <button type='submit' className='border-2 border-[#FF846D] bg-[#FF846D] rounded-full p-2 w-[40%] font-bold'>ENTER</button>
                         <h1>Don't have account yet? <Link to='/register' className='underline font-bold'>Register now!</Link></h1>
+
+                        <button type='submit' className='border-2 border-[#FF846D] bg-[#FF846D] rounded-full p-2 w-[40%] font-bold'>ENTER</button>
+                        <h1>Don't have account yet? <Link to='/register' className='underline font-bold'>Register now!</Link></h1>
                     </forms>
                 </div>
             </div>
