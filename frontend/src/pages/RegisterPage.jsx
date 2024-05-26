@@ -12,9 +12,9 @@ const RegisterPage = () => {
           <h1 className="font-poppins mt-[10%] text-center text-3xl">R E G I S T E R</h1>
 
           <form>
-            <div className="grid grid-cols-2 gap-5 place-items-center">
+            <div className="grid grid-cols-2 gap-5">
                 <div className="grid">
-                    <label>First Name </label>
+                    <label>First Name</label>
                     <input type="text" className="w-[50%]"/>
                 </div>
 
